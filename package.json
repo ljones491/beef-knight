@@ -1,0 +1,17 @@
+{
+  "name": "beef-knight",
+  "version": "1.0.0",
+  "description": "The official bot of BEEF NIGHT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "chance": "^1.1.11",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
